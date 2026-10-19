@@ -1,0 +1,128 @@
+ENERAL INFORMATION 
+ 
+1. Title of Dataset:  
+ 
+2. Author Information 
+A. Principal Investigator Contact Information 
+Name: Paul Harford
+Institution:  University of limerick
+Address:  Limerick 
+Email:  
+ 
+ 
+3. Date of data collection (single date, range, approximate date) <suggested format YYYYMMDD>: 
+data is from 2012 to 2024
+ 
+4. Geographic location of data collection <latitude, longitude, or city/region, State, Country, as appropriate>: 
+Census data from 2012 to 2024
+ 
+5. Information about funding sources that supported the collection of the data: 
+Data is publically available
+ 
+ 
+SHARING/ACCESS INFORMATION 
+ 
+1. Licenses/restrictions placed on the data:
+See GENERAL INFORMATION 
+ 
+1. Title of Dataset: 
+Census data
+ 
+2. Author Information 
+A. Principal Investigator Contact Information 
+Name: Paul Harford
+Institution:  University of limerick
+Address:  Limerick 
+Email:  
+ 
+ 
+3. Date of data collection (single date, range, approximate date) <suggested format YYYYMMDD>: 
+data is from 2014 to 2023
+ 
+4. Geographic location of data collection <latitude, longitude, or city/region, State, Country, as appropriate>: 
+census data for Ireland processed to specifd times and age_grousp and gender for HSE regions
+ 
+5. Information about funding sources that supported the collection of the data: 
+Data is publicly available
+ 
+ 
+SHARING/ACCESS INFORMATION 
+ 
+1. Licenses/restrictions placed on the data:
+see https://www.cso.ie/en/census/ for more info 
+ 
+2. Links to publications that cite or use the data:  
+ 
+3. Links to other publicly accessible locations of the data:  
+ 
+4. Links/relationships to ancillary data sets:  
+ 
+5. Was data derived from another source? no 
+A. If yes, list source(s): 
+ 
+6. Recommended citation for this dataset:  
+none 
+ 
+DATA & FILE OVERVIEW 
+ 
+1. File List:  
+All jupyter notebooks 
+WEATHERED_census_eda_processing
+WEATHERED_census_2024
+all .yml files and save enviroments from notebooks
+all .csv files were used in testing data processing 
+2. Relationship between files, if important:
+process census data for different years
+ 
+3. Additional related data collected that was not included in the current data package:  
+ 
+4. Are there multiple versions of the dataset? no only final one 
+A. If yes, name of file(s) that was updated:  
+i. Why was the file updated?  
+ii. When was the file updated?  
+ 
+ 
+METHODOLOGICAL INFORMATION 
+ 
+1. Description of methods used for collection/generation of data:  
+Data was collected, curated and made available by the CSO https://www.cso.ie/en/census/
+ 
+ 
+2. Links to publications that cite or use the data:  
+ 
+3. Links to other publicly accessible locations of the data:  
+ 
+4. Links/relationships to ancillary data sets:  
+ 
+5. Was data derived from another source? no 
+A. If yes, list source(s): 
+
+ 
+6. Recommended citation for this dataset:  
+none 
+ 
+DATA & FILE OVERVIEW 
+ 
+1. File List:  
+All jupyter notebooks 
+WEATHERED_census_eda_processing
+WEATHERED_census_2024
+all .yml files and save enviroments from notebooks
+all .csv files were used in testing data processing 
+
+2. Relationship between files, if important:
+
+ 
+3. Additional related data collected that was not included in the current data package:  
+ 
+4. Are there multiple versions of the dataset? no only final one 
+A. If yes, name of file(s) that was updated:  
+i. Why was the file updated?  
+ii. When was the file updated?  
+ 
+ 
+METHODOLOGICAL INFORMATION 
+ 
+1. Description of methods used for collection/generation of data:  
+Data was collected, curated and made available by CSO https://www.cso.ie/en/census/
+ 

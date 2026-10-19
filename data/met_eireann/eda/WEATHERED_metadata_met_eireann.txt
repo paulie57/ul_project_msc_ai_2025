@@ -1,0 +1,66 @@
+GENERAL INFORMATION 
+ 
+1. Title of Dataset:  
+ 
+2. Author Information 
+A. Principal Investigator Contact Information 
+Name: Paul Harford
+Institution:  University of limerick
+Address:  Limerick 
+Email:  
+ 
+ 
+3. Date of data collection (single date, range, approximate date) <suggested format YYYYMMDD>: 
+data is from 2014 to 2023
+ 
+4. Geographic location of data collection <latitude, longitude, or city/region, State, Country, as appropriate>: 
+Adverse weather data covering Republic of Ireland 
+ 
+5. Information about funding sources that supported the collection of the data: 
+Data is publically available
+ 
+ 
+SHARING/ACCESS INFORMATION 
+ 
+1. Licenses/restrictions placed on the data:
+Set Met Eireann sit for updated information 
+ 
+2. Links to publications that cite or use the data:  
+ 
+3. Links to other publicly accessible locations of the data:  
+ 
+4. Links/relationships to ancillary data sets:  
+ 
+5. Was data derived from another source? yes/no 
+A. If yes, list source(s): 
+ODS/XML and XLSX datasets were combined
+ 
+6. Recommended citation for this dataset:  
+none 
+ 
+DATA & FILE OVERVIEW 
+ 
+1. File List:  
+All jupyter notebooks 
+WEATHERED_met_eireann_dataset_ods
+WEATHERED_met_eireann_dataset_xml
+WEATHERED_met_eireann_dataset_xlsx
+WEATHERED_met_eireann_dataset_combined
+all .yml files and save enviroments from notebooks
+all .csv files were used in testing data processing 
+2. Relationship between files, if important:
+Files process different formats then this notebook WEATHERED_met_eireann_dataset_combined merges them into 1 dataset 
+ 
+3. Additional related data collected that was not included in the current data package:  
+ 
+4. Are there multiple versions of the dataset? no only final one 
+A. If yes, name of file(s) that was updated:  
+i. Why was the file updated?  
+ii. When was the file updated?  
+ 
+ 
+METHODOLOGICAL INFORMATION 
+ 
+1. Description of methods used for collection/generation of data:  
+Data was collected, curated and made available by Met Eireann
+ 

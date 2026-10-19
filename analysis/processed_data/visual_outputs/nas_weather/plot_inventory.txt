@@ -1,0 +1,49 @@
+NAS ANALYSIS PLOT INVENTORY
+============================================================
+
+NATIONAL PLOTS:
+  - trend: national_trend.png
+  - summary: national_summary.png
+  - categories: top_categories.png
+  - category_dist: category_distribution.png
+  - weather_effects: weather_effects.png
+  - weather_patterns: weather_patterns.png
+  - regional_comparison: regional_comparison.png
+
+REGIONAL PLOTS:
+
+  HSE Dublin and Midlands:
+    - trend: trend_HSE_Dublin_and_Midlands.png
+    - categories: categories_HSE_Dublin_and_Midlands.png
+    - weather: weather_analysis_HSE_Dublin_and_Midlands.png
+    - severity: severity_HSE_Dublin_and_Midlands.png
+
+  HSE Dublin and North East:
+    - trend: trend_HSE_Dublin_and_North_East.png
+    - categories: categories_HSE_Dublin_and_North_East.png
+    - weather: weather_analysis_HSE_Dublin_and_North_East.png
+    - severity: severity_HSE_Dublin_and_North_East.png
+
+  HSE Dublin and South East:
+    - trend: trend_HSE_Dublin_and_South_East.png
+    - categories: categories_HSE_Dublin_and_South_East.png
+    - weather: weather_analysis_HSE_Dublin_and_South_East.png
+    - severity: severity_HSE_Dublin_and_South_East.png
+
+  HSE Mid West:
+    - trend: trend_HSE_Mid_West.png
+    - categories: categories_HSE_Mid_West.png
+    - weather: weather_analysis_HSE_Mid_West.png
+    - severity: severity_HSE_Mid_West.png
+
+  HSE South West:
+    - trend: trend_HSE_South_West.png
+    - categories: categories_HSE_South_West.png
+    - weather: weather_analysis_HSE_South_West.png
+    - severity: severity_HSE_South_West.png
+
+  HSE West and North West:
+    - trend: trend_HSE_West_and_North_West.png
+    - categories: categories_HSE_West_and_North_West.png
+    - weather: weather_analysis_HSE_West_and_North_West.png
+    - severity: severity_HSE_West_and_North_West.png
